@@ -1,1 +1,2 @@
 # Momentum
+> 유튜브 <a href = "https://www.youtube.com/c/%EB%85%B8%EB%A7%88%EB%93%9C%EC%BD%94%EB%8D%94NomadCoders" target = "_blank" title = "참고자료">노마드코더의</a> 의 <a href = "https://www.youtube.com/watch?v=wUHncG3VwPw&list=PLLUCyU7SBaR7tOMe-ySJ5Uu1UlEBznxTr&index=1&t=4s" target = "_blank" title = "참고자료">초보자를 위한 바닐라 자바스크립트</a> 를 보고 만들었습니다
